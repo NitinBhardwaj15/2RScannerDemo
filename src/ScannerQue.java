@@ -10,6 +10,7 @@ public class ScannerQue {
         String section = sc.next();
         sc.close();
         System.out.println(roll+" "+name+" "+section);
+        System.out.println("Hello Github my first  change");
 
     }
 }
