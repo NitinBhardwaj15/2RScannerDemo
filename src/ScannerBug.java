@@ -19,6 +19,7 @@ public class ScannerBug {
         System.out.println("roll"+"\n"+roll);
         System.out.println("NAme"+"\n"+name);
         System.out.println("Section"+"\n" + section);
+        System.out.println("Hello Github my first change");
     }
 
 }
